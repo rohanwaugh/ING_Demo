@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ING_Demo</string>
+    <string name="error">Something wrong!! Try again later</string>
+</resources>
